@@ -1,12 +1,3 @@
-"""
-Script developed by Rodrigo Galdino
-(sorry me for my simple english)
-
-×Instagram: 'https://www.instagram.com/rgr205?r=nametag'
-
-×Facebook: 'https://www.facebook.com/RodrigoGaldino'
-
-"""
 
 import math
 
